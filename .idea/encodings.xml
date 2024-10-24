@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cwl-bizcenter-base/cwl-bizcenter-base-constants/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cwl-bizcenter-base/cwl-bizcenter-base-constants/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cwl-bizcenter-base/cwl-bizcenter-base-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cwl-bizcenter-base/cwl-bizcenter-base-log/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cwl-bizcenter-base/cwl-bizcenter-base-main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cwl-bizcenter-base/cwl-bizcenter-base-main/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cwl-bizcenter-base/cwl-bizcenter-base-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cwl-bizcenter-base/cwl-bizcenter-base-mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cwl-bizcenter-base/cwl-bizcenter-base-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cwl-bizcenter-base/cwl-bizcenter-base-redis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cwl-bizcenter-base/cwl-bizcenter-base-utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cwl-bizcenter-base/cwl-bizcenter-base-utils/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cwl-bizcenter-base/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cwl-bizcenter-base/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cwl-bizcenter-denpenice/src/main/java" charset="UTF-8" />

@@ -6,8 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="cwl-bizcenter-base" />
+        <module name="cwl-bizcenter-base-log" />
+        <module name="cwl-bizcenter-base-main" />
+        <module name="cwl-bizcenter-base-mybatis" />
+        <module name="cwl-bizcenter-base-redis" />
         <module name="cwl-bizcenter-denpenice" />
+        <module name="cwl-bizcenter-base-constants" />
+        <module name="cwl-bizcenter-base-utils" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
