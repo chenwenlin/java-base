@@ -15,6 +15,8 @@
     <file url="file://$PROJECT_DIR$/cwl-bizcenter-base/cwl-bizcenter-base-utils/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cwl-bizcenter-base/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cwl-bizcenter-base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cwl-bizcenter-codegen/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cwl-bizcenter-codegen/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cwl-bizcenter-denpenice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cwl-bizcenter-denpenice/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cwl-bizcenter-dependence/src/main/java" charset="UTF-8" />
